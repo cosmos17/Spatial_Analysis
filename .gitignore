@@ -1,9 +1,7 @@
 소상공인시장진흥공단_상가(상권)정보_20240930.zip
 
-data/상권정보_경기.csv
-data/상권정보_서울.csv
+dip-main.zip
+
+data/
 
 memo.md
-
-02_Google Cloud API.ipynb
-03_Geo Data.ipynb
